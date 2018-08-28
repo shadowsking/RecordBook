@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecordBook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="title_groups">Группы</string>
+    <string name="title_students">Студенты</string>
+    <string name="title_events">Мероприятия</string>
+    <string name="nav.item.search">Поиск</string>
+    <string name="menu.back">Back</string>
+    <string name="menu.search">Search</string>
+
+</resources>
